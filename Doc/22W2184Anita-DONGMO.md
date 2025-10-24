@@ -10,7 +10,7 @@
 
 | Date       | Tâches prévues                                                                 | Tâches réalisées                                                                                          | Difficultés rencontrées                                                                                   | Solutions proposées / adoptées                                                               |
 |------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 2025-10-01 | Répartition des rôles dans l’équipe, définir l’organisation du projet           | Distribution des rôles, mise en place de la structure `/doc` et `/src`          |                                      | Mise en place d’un plan de travail partagé                      |
+| 2025-10-01 | Répartition des rôles dans l’équipe, définir l’organisation du projet           | Distribution des rôles, mise en place de la structure et du format de production des tutoriels          |                                      | Mise en place d’un plan de travail partagé                      |
 |            | Étudier UNLocBox (Optimisation Convexe), préparer présentation Beamer (LaTeX)         | Création d’une présentation Beamer complète, explications des concepts fondamentaux et de 'architecture de UNLocBox |                                    |             |
 
 ---
